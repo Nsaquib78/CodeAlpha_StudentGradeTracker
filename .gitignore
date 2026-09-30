@@ -1,0 +1,20 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# IDE and Build files
+.idea/
+.vscode/
+*.iml
+.classpath
+.project
+.settings/
+bin/
+build/
+out/
+
+# Testing artifacts (generated during testing)
+test_input*.txt
+test_output*.txt
